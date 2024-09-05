@@ -3,13 +3,13 @@
 **Many Times** is a modern and stylish website that showcases a clothing line. Built using HTML and CSS, the site reflects a minimalist design philosophy, offering a clean and engaging user experience.
 
 ## Table of Contents
-- [Project Overview]
-- [Features]
-- [Technologies Used]
-- [Installation]
-- [Usage]
-- [Contributing]
-- [License]
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Overview
 Many Times is a personal project aimed at creating a functional and visually appealing fashion website. The design is modern, featuring neutral colors and simple yet elegant layout choices. The goal is to provide users with a seamless browsing experience that highlights the fashion brand's products.
@@ -47,3 +47,4 @@ Feel free to fork this project and submit pull requests if you'd like to contrib
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as long as proper attribution is given.
+
